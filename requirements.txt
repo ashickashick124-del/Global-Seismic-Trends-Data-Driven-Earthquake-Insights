@@ -1,0 +1,7 @@
+pandas
+requests
+python-dateutil
+sqlalchemy
+mysql-connector-python
+streamlit
+plotly
